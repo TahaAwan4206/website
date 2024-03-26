@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6A994DC0-AFE2-B4FB-2562-7AEB10C873E3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EnemyFlyingController.cs">
+    <Files>
+      <File FileName="Assets/BulletController.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/EnemyPatroller.cs" Line="1" Column="1" />
+      <File FileName="Assets/EnemyHealthController.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlayerHealthController.cs" Line="1" Column="1" />
+      <File FileName="Assets/DamagePlayer.cs" Line="43" Column="1" />
+      <File FileName="Assets/EnemyFlyingController.cs" Line="42" Column="114" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="team14_SE2250Project">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b47b4e3e-3e57-4c15-b577-2867bb40c4ba" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
